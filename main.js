@@ -67,4 +67,4 @@ client.registry
 	.registerDefaults()
 	.registerCommandsIn(path.join(__dirname, 'commands'));
 
-	client.login('MzEwMjA4MjYwNDE2MjA4ODk2.C-6ndw.S6e_nD6Fd1zmihMP6fYuiQHC9VI');
+	client.login('<SUPER SECRET TOKEN>');
